@@ -8,7 +8,7 @@
 module.exports = function defineCustomHook(sails) {
 
   return {
-
+ 
     /**
      * Runs when a Sails app loads/lifts.
      */
